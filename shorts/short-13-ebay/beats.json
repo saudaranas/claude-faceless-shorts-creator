@@ -1,0 +1,608 @@
+{
+  "id": "short-13-ebay",
+  "title": "Income Sampingan Dari eBay",
+  "composition": "Short13Ebay",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSec": 42
+  },
+  "voiceStatus": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ",
+  "voicePlan": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ",
+  "vo": [
+    {
+      "beat": "hook",
+      "text": "Ini sebab warga Malaysia diam-diam buat duit lebih kat eBay.",
+      "start": 0.0,
+      "end": 3.25,
+      "words": [
+        {
+          "w": "Ini",
+          "start": 0.0,
+          "end": 0.221
+        },
+        {
+          "w": "sebab",
+          "start": 0.279,
+          "end": 0.557
+        },
+        {
+          "w": "warga",
+          "start": 0.627,
+          "end": 0.859
+        },
+        {
+          "w": "Malaysia",
+          "start": 0.894,
+          "end": 1.254
+        },
+        {
+          "w": "diam-diam",
+          "start": 1.324,
+          "end": 1.776
+        },
+        {
+          "w": "buat",
+          "start": 1.823,
+          "end": 1.962
+        },
+        {
+          "w": "duit",
+          "start": 1.985,
+          "end": 2.125
+        },
+        {
+          "w": "lebih",
+          "start": 2.171,
+          "end": 2.38
+        },
+        {
+          "w": "kat",
+          "start": 2.403,
+          "end": 2.519
+        },
+        {
+          "w": "eBay.",
+          "start": 2.543,
+          "end": 3.251
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "Bukan Shopee je, eBay ada 136 juta pembeli, serata dunia.",
+      "start": 4.05,
+      "end": 8.78,
+      "words": [
+        {
+          "w": "Bukan",
+          "start": 4.05,
+          "end": 4.334
+        },
+        {
+          "w": "Shopee",
+          "start": 4.377,
+          "end": 4.716
+        },
+        {
+          "w": "je,",
+          "start": 4.749,
+          "end": 5.032
+        },
+        {
+          "w": "eBay",
+          "start": 5.196,
+          "end": 5.491
+        },
+        {
+          "w": "ada",
+          "start": 5.556,
+          "end": 5.786
+        },
+        {
+          "w": "136",
+          "start": 5.818,
+          "end": 6.572
+        },
+        {
+          "w": "juta",
+          "start": 6.615,
+          "end": 6.79
+        },
+        {
+          "w": "pembeli,",
+          "start": 6.823,
+          "end": 7.336
+        },
+        {
+          "w": "serata",
+          "start": 7.532,
+          "end": 7.848
+        },
+        {
+          "w": "dunia.",
+          "start": 7.892,
+          "end": 8.766
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "Barang lama kat rumah, orang US, UK sanggup bayar mahal untuknya.",
+      "start": 8.84,
+      "end": 13.18,
+      "words": [
+        {
+          "w": "Barang",
+          "start": 8.84,
+          "end": 9.095
+        },
+        {
+          "w": "lama",
+          "start": 9.137,
+          "end": 9.361
+        },
+        {
+          "w": "kat",
+          "start": 9.403,
+          "end": 9.505
+        },
+        {
+          "w": "rumah,",
+          "start": 9.535,
+          "end": 9.924
+        },
+        {
+          "w": "orang",
+          "start": 10.006,
+          "end": 10.23
+        },
+        {
+          "w": "US,",
+          "start": 10.302,
+          "end": 10.619
+        },
+        {
+          "w": "UK",
+          "start": 10.66,
+          "end": 10.895
+        },
+        {
+          "w": "sanggup",
+          "start": 11.079,
+          "end": 11.416
+        },
+        {
+          "w": "bayar",
+          "start": 11.457,
+          "end": 11.661
+        },
+        {
+          "w": "mahal",
+          "start": 11.712,
+          "end": 12.009
+        },
+        {
+          "w": "untuknya.",
+          "start": 12.346,
+          "end": 13.175
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "Duit terus masuk akaun bank awak, dalam Ringgit, dalam satu dua hari.",
+      "start": 13.26,
+      "end": 17.8,
+      "words": [
+        {
+          "w": "Duit",
+          "start": 13.26,
+          "end": 13.515
+        },
+        {
+          "w": "terus",
+          "start": 13.55,
+          "end": 13.759
+        },
+        {
+          "w": "masuk",
+          "start": 13.829,
+          "end": 14.108
+        },
+        {
+          "w": "akaun",
+          "start": 14.142,
+          "end": 14.456
+        },
+        {
+          "w": "bank",
+          "start": 14.537,
+          "end": 14.793
+        },
+        {
+          "w": "awak,",
+          "start": 14.839,
+          "end": 15.152
+        },
+        {
+          "w": "dalam",
+          "start": 15.199,
+          "end": 15.443
+        },
+        {
+          "w": "Ringgit,",
+          "start": 15.512,
+          "end": 15.849
+        },
+        {
+          "w": "dalam",
+          "start": 15.872,
+          "end": 16.116
+        },
+        {
+          "w": "satu",
+          "start": 16.174,
+          "end": 16.383
+        },
+        {
+          "w": "dua",
+          "start": 16.441,
+          "end": 16.673
+        },
+        {
+          "w": "hari.",
+          "start": 16.731,
+          "end": 17.811
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "Jual dalam Dollar, terima dalam Ringgit, kadar naik, untung awak pun naik.",
+      "start": 18.05,
+      "end": 22.64,
+      "words": [
+        {
+          "w": "Jual",
+          "start": 18.05,
+          "end": 18.305
+        },
+        {
+          "w": "dalam",
+          "start": 18.363,
+          "end": 18.549
+        },
+        {
+          "w": "Dollar,",
+          "start": 18.607,
+          "end": 19.118
+        },
+        {
+          "w": "terima",
+          "start": 19.269,
+          "end": 19.583
+        },
+        {
+          "w": "dalam",
+          "start": 19.629,
+          "end": 19.803
+        },
+        {
+          "w": "Ringgit,",
+          "start": 19.861,
+          "end": 20.256
+        },
+        {
+          "w": "kadar",
+          "start": 20.326,
+          "end": 20.627
+        },
+        {
+          "w": "naik,",
+          "start": 20.697,
+          "end": 21.045
+        },
+        {
+          "w": "untung",
+          "start": 21.196,
+          "end": 21.533
+        },
+        {
+          "w": "awak",
+          "start": 21.579,
+          "end": 21.742
+        },
+        {
+          "w": "pun",
+          "start": 21.765,
+          "end": 21.905
+        },
+        {
+          "w": "naik.",
+          "start": 21.951,
+          "end": 22.648
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "Tak payah laman web sendiri atau stok besar, guna barang lama, atau buatan tangan.",
+      "start": 22.84,
+      "end": 28.08,
+      "words": [
+        {
+          "w": "Tak",
+          "start": 22.84,
+          "end": 23.049
+        },
+        {
+          "w": "payah",
+          "start": 23.084,
+          "end": 23.328
+        },
+        {
+          "w": "laman",
+          "start": 23.397,
+          "end": 23.664
+        },
+        {
+          "w": "web",
+          "start": 23.734,
+          "end": 23.897
+        },
+        {
+          "w": "sendiri",
+          "start": 23.955,
+          "end": 24.291
+        },
+        {
+          "w": "atau",
+          "start": 24.349,
+          "end": 24.547
+        },
+        {
+          "w": "stok",
+          "start": 24.581,
+          "end": 24.825
+        },
+        {
+          "w": "besar,",
+          "start": 24.883,
+          "end": 25.383
+        },
+        {
+          "w": "guna",
+          "start": 25.592,
+          "end": 25.847
+        },
+        {
+          "w": "barang",
+          "start": 25.905,
+          "end": 26.137
+        },
+        {
+          "w": "lama,",
+          "start": 26.184,
+          "end": 26.671
+        },
+        {
+          "w": "atau",
+          "start": 26.845,
+          "end": 27.066
+        },
+        {
+          "w": "buatan",
+          "start": 27.124,
+          "end": 27.414
+        },
+        {
+          "w": "tangan.",
+          "start": 27.461,
+          "end": 28.088
+        }
+      ]
+    },
+    {
+      "beat": "twist",
+      "text": "Bukan cerita cepat kaya, tapi extra beberapa ratus, ke beberapa ribu Ringgit sebulan, konsisten.",
+      "start": 28.38,
+      "end": 33.85,
+      "words": [
+        {
+          "w": "Bukan",
+          "start": 28.38,
+          "end": 28.63
+        },
+        {
+          "w": "cerita",
+          "start": 28.658,
+          "end": 28.853
+        },
+        {
+          "w": "cepat",
+          "start": 28.881,
+          "end": 29.076
+        },
+        {
+          "w": "kaya,",
+          "start": 29.113,
+          "end": 29.503
+        },
+        {
+          "w": "tapi",
+          "start": 29.642,
+          "end": 29.855
+        },
+        {
+          "w": "extra",
+          "start": 29.901,
+          "end": 30.171
+        },
+        {
+          "w": "beberapa",
+          "start": 30.217,
+          "end": 30.523
+        },
+        {
+          "w": "ratus,",
+          "start": 30.56,
+          "end": 31.061
+        },
+        {
+          "w": "ke",
+          "start": 31.182,
+          "end": 31.246
+        },
+        {
+          "w": "beberapa",
+          "start": 31.284,
+          "end": 31.58
+        },
+        {
+          "w": "ribu",
+          "start": 31.608,
+          "end": 31.794
+        },
+        {
+          "w": "Ringgit",
+          "start": 31.831,
+          "end": 32.073
+        },
+        {
+          "w": "sebulan,",
+          "start": 32.109,
+          "end": 32.582
+        },
+        {
+          "w": "konsisten.",
+          "start": 32.703,
+          "end": 33.835
+        }
+      ]
+    },
+    {
+      "beat": "payoff",
+      "text": "Lebih 20 juta penjual dah buktikan, semua bermula dari satu jualan pertama.",
+      "start": 33.92,
+      "end": 38.56,
+      "words": [
+        {
+          "w": "Lebih",
+          "start": 33.92,
+          "end": 34.21
+        },
+        {
+          "w": "20",
+          "start": 34.292,
+          "end": 34.5
+        },
+        {
+          "w": "juta",
+          "start": 34.628,
+          "end": 34.837
+        },
+        {
+          "w": "penjual",
+          "start": 34.884,
+          "end": 35.197
+        },
+        {
+          "w": "dah",
+          "start": 35.255,
+          "end": 35.348
+        },
+        {
+          "w": "buktikan,",
+          "start": 35.383,
+          "end": 36.033
+        },
+        {
+          "w": "semua",
+          "start": 36.312,
+          "end": 36.579
+        },
+        {
+          "w": "bermula",
+          "start": 36.625,
+          "end": 36.939
+        },
+        {
+          "w": "dari",
+          "start": 36.985,
+          "end": 37.148
+        },
+        {
+          "w": "satu",
+          "start": 37.182,
+          "end": 37.415
+        },
+        {
+          "w": "jualan",
+          "start": 37.473,
+          "end": 37.74
+        },
+        {
+          "w": "pertama.",
+          "start": 37.798,
+          "end": 38.564
+        }
+      ]
+    }
+  ],
+  "beats": [
+    {
+      "id": "hook",
+      "start": 0.0,
+      "end": 4.0,
+      "visual": "frame-0 composed: world map lit, KUL pin pulsing, arcs already drawn to US/UK/AU, StatChip '136 JUTA PEMBELI / 190 NEGARA' up, title warm"
+    },
+    {
+      "id": "setup",
+      "start": 4.0,
+      "end": 13.3,
+      "visual": "map stays; kicker 'PASARAN GLOBAL'; nothing new enters, the reach is already the payoff"
+    },
+    {
+      "id": "reveal-money-in",
+      "start": 13.3,
+      "end": 17.9,
+      "visual": "map dissolves; flow chips EBAY -> PAYONEER -> BANK (RM) draw left to right; StatChip '1-2 HARI BEKERJA'"
+    },
+    {
+      "id": "reveal-fx",
+      "start": 17.9,
+      "end": 22.8,
+      "visual": "two bars grow in: '1 USD' short, 'LEBIH RM 4' long; arrow between"
+    },
+    {
+      "id": "reveal-no-stock",
+      "start": 22.8,
+      "end": 28.3,
+      "visual": "three chips stagger in: BARANG LAMA / KOLEKSI / BUATAN TANGAN"
+    },
+    {
+      "id": "twist",
+      "start": 28.3,
+      "end": 38.6,
+      "visual": "StatChip 'LEBIH 20 JUTA PENJUAL' grows in and holds through the payoff line"
+    },
+    {
+      "id": "loop",
+      "start": 38.6,
+      "end": 42.0,
+      "visual": "everything dissolves back to the map + title + StatChip — last frame ~= frame 0, no CTA"
+    }
+  ],
+  "notes": {
+    "factsVerified": [
+      "136 million active buyers, 190+ markets (eBay, Q2 2026)",
+      "~20 million sellers worldwide (eBay, 2026)",
+      "Payoneer payout to Malaysian bank account in local currency, 1-2 business days",
+      "USD/MYR ~4.07 as of 2026-09-11 (script rounds to 'lebih 4 Ringgit', not pinned)",
+      "eBay final value fee ~13.6% most categories, not dwelt on in the script"
+    ],
+    "incomeClaimIsDeliberatelyVague": "no verifiable per-seller average income exists; the script frames it as a realistic range, never a promised figure"
+  }
+}

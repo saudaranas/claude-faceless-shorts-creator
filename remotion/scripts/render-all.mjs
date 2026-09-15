@@ -44,6 +44,7 @@ for (const shot of manifest) {
     const out = path.join(outDir, `${shot.id}.${transparent ? 'mov' : 'mp4'}`);
     await renderMedia({
       serveUrl, composition, outputLocation: out, scale: SCALE, overwrite: true,
+      concurrency: process.env.REMOTION_CONCURRENCY ? Number(process.env.REMOTION_CONCURRENCY) : undefined,
       codec: transparent ? 'prores' : 'h264',
       proResProfile: transparent ? '4444' : undefined,
       pixelFormat: transparent ? 'yuva444p10le' : 'yuv420p',
